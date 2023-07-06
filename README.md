@@ -1,5 +1,6 @@
 ### 👋 WELCOME TO MY CODE WORLD 
 
+
 ### 💻 Tech Stack:
 [![JavaScript](https://img.shields.io/badge/JavaScript-8A2BE2)](https://github.com/MagdalenaTyminska)
 [![React](https://img.shields.io/badge/React-8A2BE2)](https://github.com/MagdalenaTyminska)
