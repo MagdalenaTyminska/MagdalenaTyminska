@@ -1,4 +1,4 @@
-### WELCOME TO MY CODE WORLD 👋
+### 👋 WELCOME TO MY CODE WORLD 
 
 # 💻 Tech Stack:
 [![JavaScript](https://img.shields.io/badge/JavaScript-8A2BE2)](https://github.com/MagdalenaTyminska)
