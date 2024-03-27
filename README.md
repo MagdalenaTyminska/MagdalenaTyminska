@@ -1,5 +1,8 @@
 ### 👋 WELCOME TO MY CODE WORLD 
 
+###  MY COMMERCIAL SITES:
+https://mieszkajpiekniej.pl/
+
 
 ### 💻 Tech Stack:
 [![JavaScript](https://img.shields.io/badge/JavaScript-8A2BE2)](https://github.com/MagdalenaTyminska)
