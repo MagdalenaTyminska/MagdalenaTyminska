@@ -1,5 +1,5 @@
 ### 👋 WELCOME TO MY CODE WORLD 
-
+https://magdalenatyminska.github.io/CV-React/
 
 ### 💻  MY COMMERCIAL SITES:
 https://mieszkajpiekniej.pl/
