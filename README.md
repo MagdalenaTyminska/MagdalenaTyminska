@@ -2,8 +2,8 @@
 https://magdalenatyminska.github.io/CV-React/
 
 ### 💻  MY COMMERCIAL SITES:
-https://jantyminski.pl/
-https://mieszkajpiekniej.pl/
+- https://jantyminski.pl/  
+- https://mieszkajpiekniej.pl/  
 
 
 ### ⚙️ Tech Stack:
